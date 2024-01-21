@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently studying Security Informatics for my master's degree at JHU.
+- 🔭 Master Student@JHU MSSI | Member@WGPSEC | CTFer@Z0D1AC | Bug Hunter
 - 🌱 My main focus is on web security and automatic code analysis. I'm also a ctfer! If our interests align, let's connect!
 - 🤔 I’m seeking a summer internship for 2024.
 - 📫 Reach out to me at: superboyzjc@gmail.com
