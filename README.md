@@ -1,13 +1,11 @@
 ### 👋
 
-I cracked things, crack things and going to crack things after fixing cracked and fixed cracked things
-
-<!--
 - 🔭 MSSI@JHU | Member@WGPSEC | CTFer@Z0D1AC | Bug Hunter | LLM Security Researcher
 - 🌱 My main focus is on web security and automatic code analysis. I'm also a ctfer! If our interests align, let's connect!
 - 📫 Reach out to me at: superboyzjc@gmail.com
 - 😄 Pronouns: Gavin | Zhong | 2h0ng
 
+<!--
 **superboy-zjc/superboy-zjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
