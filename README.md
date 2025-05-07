@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋
+
+I cracked things, crack things and going to crack things after fixed and fixing cracked things.
 
 - 🔭 MSSI@JHU | Member@WGPSEC | CTFer@Z0D1AC | Bug Hunter | LLM Security Researcher
 - 🌱 My main focus is on web security and automatic code analysis. I'm also a ctfer! If our interests align, let's connect!
